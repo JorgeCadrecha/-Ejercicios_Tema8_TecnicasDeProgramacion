@@ -1,7 +1,7 @@
 # -Ejercicios_Tema8_TecnicasDeProgramacion
 
 ## Nota:
-Mi repositorio es: 
+Mi repositorio es: https://github.com/JorgeCadrecha/-Ejercicios_Tema8_TecnicasDeProgramacion.git
 
 ## Enunciados
 
